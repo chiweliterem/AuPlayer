@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AuPlayer</string>
+    <string name="app_description_logo">App Description logo</string>
+    <string name="powered_by">Powered by Princesoft</string>
 </resources>
